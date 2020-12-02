@@ -1,0 +1,26 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "University project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adriankleyna/PwJ_NodeJS.git"
+  },
+  "keywords": [
+    "nodejs",
+    "pwsz"
+  ],
+  "author": "Adrian Kleyna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adriankleyna/PwJ_NodeJS/issues"
+  },
+  "homepage": "https://github.com/adriankleyna/PwJ_NodeJS#readme",
+  "dependencies": {
+    "crypto-random-string": "^3.3.0"
+  }
+}
